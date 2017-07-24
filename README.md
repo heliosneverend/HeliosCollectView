@@ -1,0 +1,2 @@
+# HeliosCollectView
+重写cllectView的layout实现瀑布流以及方法缩小效果的循环图 (可添加多种动画效果)
